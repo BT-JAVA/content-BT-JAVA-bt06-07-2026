@@ -3,15 +3,20 @@
     "ue01": {
       "pages": [],
       "slides": [],
-      "assignments": {}
+      "assignments": {
+        "ue01": {
+          "pages": [
+            "syllabus"
+          ],
+          "slides": [
+            "einf-hrung"
+          ]
+        }
+      }
     }
   },
   "general": {
-    "pages": [
-      "syllabus"
-    ],
-    "slides": [
-      "einf-hrung"
-    ]
+    "pages": [],
+    "slides": []
   }
 }
