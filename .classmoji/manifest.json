@@ -13,6 +13,24 @@
           ]
         }
       }
+    },
+    "ue02": {
+      "pages": [
+        "syllabus"
+      ],
+      "slides": [
+        "einf-hrung"
+      ],
+      "assignments": {
+        "ue02": {
+          "pages": [
+            "syllabus"
+          ],
+          "slides": [
+            "einf-hrung"
+          ]
+        }
+      }
     }
   },
   "general": {
