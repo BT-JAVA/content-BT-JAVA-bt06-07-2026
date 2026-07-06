@@ -1,0 +1,15 @@
+{
+  "repositories": {
+    "ue01": {
+      "pages": [],
+      "slides": [],
+      "assignments": {}
+    }
+  },
+  "general": {
+    "pages": [
+      "syllabus"
+    ],
+    "slides": []
+  }
+}
