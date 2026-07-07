@@ -12,7 +12,7 @@ Dieses Repository enthält sämtliche Unterlagen, die im Laufe des Kurses bereit
 - **extras/**  
   Zusätzliche Materialien wie Links, Cheatsheets, etc.
 
-- **pages/**
+- **pages/**  
   Organisatorischer Ablauf des Unterrichts
 
 ## 🧭 Wie Sie dieses Repository verwenden
