@@ -12,9 +12,7 @@
     }
   },
   "general": {
-    "pages": [
-      "syllabus"
-    ],
+    "pages": [],
     "slides": []
   }
 }
