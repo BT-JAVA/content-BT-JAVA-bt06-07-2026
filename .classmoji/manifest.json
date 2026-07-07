@@ -1,40 +1,9 @@
 {
-  "repositories": {
-    "ue01": {
-      "pages": [],
-      "slides": [],
-      "assignments": {
-        "ue01": {
-          "pages": [
-            "syllabus"
-          ],
-          "slides": [
-            "einf-hrung"
-          ]
-        }
-      }
-    },
-    "ue02": {
-      "pages": [
-        "syllabus"
-      ],
-      "slides": [
-        "einf-hrung"
-      ],
-      "assignments": {
-        "ue02": {
-          "pages": [
-            "syllabus"
-          ],
-          "slides": [
-            "einf-hrung"
-          ]
-        }
-      }
-    }
-  },
+  "repositories": {},
   "general": {
-    "pages": [],
+    "pages": [
+      "syllabus"
+    ],
     "slides": []
   }
 }
