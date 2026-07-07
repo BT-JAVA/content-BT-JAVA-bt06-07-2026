@@ -1,5 +1,16 @@
 {
-  "repositories": {},
+  "repositories": {
+    "ue01": {
+      "pages": [],
+      "slides": [],
+      "assignments": {
+        "ue01": {
+          "pages": [],
+          "slides": []
+        }
+      }
+    }
+  },
   "general": {
     "pages": [
       "syllabus"
