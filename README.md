@@ -45,12 +45,12 @@ Dieses Repository enthält sämtliche Unterlagen, die im Laufe des Kurses bereit
 | 16    | Arrays    | 28.10.2026, 09:00 Uhr |
 | 17    | mehrdimensionale Arrays | 04.11.2026, 09:00 Uhr |
 | 18    | mehrdimensionale Arrays | freiwillig |
-| 19    | Rekursionen   | 11.11.2026, 09:00 Uhr |
-| 20    | Testvorbereitung | 18.11.2026, 09:00 Uhr |
-| 21    | Collections   | 25.11. 2026, 09:00 Uhr |
-| 22    | Collections   | freiwillig |
-| 23    | Vererbung    | 02.12.2026, 09:00 Uhr |
-| 24    | Abstracts & Interfaces | 09.12.2026, 09:00 Uhr |
+| 19    | Rekursionen   | freiwillig |
+| 20    | Testvorbereitung | freiwillig |
+| 21    | Collections   | 11.11.2026, 09:00 Uhr |
+| 22    | Collections   | 18.11.2026, 09:00 Uhr |
+| 23    | Vererbung    | 25.11.2026, 09:00 Uhr |
+| 24    | Abstracts & Interfaces | 02.12.2026, 09:00 Uhr |
 | 25    | Exception Handling | 09.12.2026, 09:00 Uhr |
 
 
